@@ -14,7 +14,7 @@ class App extends Component {
   
 
   render() {
-    var data = this.state.prueba;
+    var data = {"url": "https://vega.github.io/schema/vega-lite/v2.json"},
     const self = this;
     return (
       <div className="App"> 
