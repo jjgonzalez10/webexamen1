@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-
+import vegaEmbed from "vega-embed";
 
 class App extends Component {
   constructor(props){
@@ -28,6 +28,7 @@ class App extends Component {
       </textarea>
       
       <button onClick={() =>{
+        
         var obj= {
           x: "parcial",
           y:{field :"vv", "type":"quantitative"}
