@@ -29,6 +29,10 @@ For developement:
 Node-express-mongodb-react
 
 You also see the page in 
+https://git.heroku.com/examen1web.git
+
+screenshot:
+![screenshot](https://raw.githubusercontent.com/jjgonzalez10/proyecto2/master/images/Captura.PNG )
 
 Jhon Jairo Gonzalez Melo 
 201516579
